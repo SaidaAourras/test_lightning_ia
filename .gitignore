@@ -1,0 +1,7 @@
+.lightning_studio/
+.idea/
+.vscode-server
+.vscode/
+.windsurf-server
+.cursor-server
+__pycache__/
